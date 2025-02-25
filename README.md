@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Ingeniero en Sistemas graduado de [Nombre de tu Universidad o Institución].<br><br>💻 Me especializo en el desarrollo web, tanto en el frontend como en el backend.<br><br>🌱 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.<br><br>🚀 Mi objetivo es contribuir a proyectos de código abierto y colaborar con otros desarrolladores.</p>
+<p align="left">🎓 Ingeniero en Sistemas.<br><br>💻 Me especializo en el desarrollo web, tanto en el frontend como en el backend.<br><br>🌱 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.<br><br>🚀 Mi objetivo es contribuir a proyectos de código abierto y colaborar con otros desarrolladores.</p>
 
 ###
 
