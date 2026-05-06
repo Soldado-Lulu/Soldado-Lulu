@@ -58,16 +58,6 @@ Building scalable systems, REST APIs, enterprise platforms, and healthcare softw
 | 📦 Inventory ERP System | Inventory and sales management system with AI trend prediction. | React, Node.js, SQL |
 | 🩺 Nursing Management System | Real-time medication and medical supply tracking platform. | React, PostgreSQL |
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soldado-Lulu&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soldado-Lulu&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🌐 Areas of Interest
 
@@ -148,16 +138,6 @@ Desarrollo de sistemas escalables, APIs REST, plataformas empresariales y soluci
 | 📦 Sistema ERP Inventario | Sistema de ventas e inventario con predicción de tendencias mediante IA. | React, Node.js, SQL |
 | 🩺 Sistema de Enfermería | Plataforma en tiempo real para control de medicamentos y suministros médicos. | React, PostgreSQL |
 
----
-
-# 📊 Estadísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soldado-Lulu&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soldado-Lulu&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🌐 Áreas de Interés
 
